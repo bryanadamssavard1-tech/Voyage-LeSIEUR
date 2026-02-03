@@ -4,8 +4,8 @@ const conteneur = document.querySelector('.conteneur-transport');
 btPlus.addEventListener('click', fouvreferme);
 
 
-function fouvreferme(){
+function fouvreferme() {
 
-conteneur.classList.toggle('conteneur-transport-invisible')
+    conteneur.classList.toggle('conteneur-transport-invisible')
 
 };
